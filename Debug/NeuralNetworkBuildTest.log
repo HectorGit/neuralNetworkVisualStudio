@@ -1,0 +1,16 @@
+﻿  NeuralNetwork.cpp
+c:\users\owner\documents\visual studio 2017\projects\neuralnetworkbuildtest\neuralnetworkbuildtest\neuralnetwork.cpp(201): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\owner\documents\visual studio 2017\projects\neuralnetworkbuildtest\neuralnetworkbuildtest\neuralnetwork.cpp(479): warning C4018: '<': signed/unsigned mismatch
+c:\users\owner\documents\visual studio 2017\projects\neuralnetworkbuildtest\neuralnetworkbuildtest\neuralnetwork.cpp(485): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\owner\documents\visual studio 2017\projects\neuralnetworkbuildtest\neuralnetworkbuildtest\neuralnetwork.cpp(489): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\owner\documents\visual studio 2017\projects\neuralnetworkbuildtest\neuralnetworkbuildtest\neuralnetwork.cpp(491): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\owner\documents\visual studio 2017\projects\neuralnetworkbuildtest\neuralnetworkbuildtest\neuralnetwork.cpp(492): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\owner\documents\visual studio 2017\projects\neuralnetworkbuildtest\neuralnetworkbuildtest\neuralnetwork.cpp(555): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\owner\documents\visual studio 2017\projects\neuralnetworkbuildtest\neuralnetworkbuildtest\neuralnetwork.cpp(556): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\owner\documents\visual studio 2017\projects\neuralnetworkbuildtest\neuralnetworkbuildtest\neuralnetwork.cpp(557): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\owner\documents\visual studio 2017\projects\neuralnetworkbuildtest\neuralnetworkbuildtest\neuralnetwork.cpp(558): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\owner\documents\visual studio 2017\projects\neuralnetworkbuildtest\neuralnetworkbuildtest\neuralnetwork.cpp(559): warning C4129: '%': unrecognized character escape sequence
+c:\users\owner\documents\visual studio 2017\projects\neuralnetworkbuildtest\neuralnetworkbuildtest\neuralnetwork.cpp(559): warning C4778: 'printf' : unterminated format string '%'
+c:\users\owner\documents\visual studio 2017\projects\neuralnetworkbuildtest\neuralnetworkbuildtest\neuralnetwork.cpp(567): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  NeuralNetworkBuildTest.vcxproj -> C:\Users\Owner\documents\visual studio 2017\Projects\NeuralNetworkBuildTest\Debug\NeuralNetworkBuildTest.exe
+  NeuralNetworkBuildTest.vcxproj -> C:\Users\Owner\documents\visual studio 2017\Projects\NeuralNetworkBuildTest\Debug\NeuralNetworkBuildTest.pdb (Partial PDB)
